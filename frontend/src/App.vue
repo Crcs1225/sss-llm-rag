@@ -80,7 +80,6 @@ body {
   .main-content {
     margin-left: 0;
     width: 100%;
-    padding-top: 60px; /* Space for mobile toggle button */
   }
 
   .main-content.sidebar-mobile-open {
