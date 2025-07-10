@@ -1,0 +1,18 @@
+venv
+.env
+.env.*
+*.env
+
+
+models/
+__pycache__/
+
+sss_documents_export.json
+sss_documents_no_embeddings.json
+embeddings.json
+embeddings.npz
+*.embeddings.json
+
+# ChromaDB data
+sss_vectors/
+chromadb/
